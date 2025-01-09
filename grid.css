@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body{
-    background-color: #17153B;
+    background-image: url(assets/wallpaper3.1.jpg);
     font-family: "Source Code Pro", monospace;
     margin-top: 150px;
     font-size: 20px;
@@ -21,13 +21,15 @@ body{
 .box{
     width: 250px;
     height: 220px;
-    background-color: #2E236C;
+    background-color: #837ea5bb;
     text-align: center;
     padding-top: 10px;
     margin-left: auto;
     margin-right: auto;
     overflow: auto;
     scrollbar-width: none;
+    border-radius: 15px;
+    backdrop-filter: blur(10px);
 }
 ul{
     list-style: none;
@@ -38,15 +40,15 @@ a{
 h1{
     text-align: center;
     font-size: 70px;
-    color: #C8ACD6;
+    color: #104583;
     margin-bottom: 20px;
 }
 h2{
-    color: #C8ACD6;
+    color: #104583;
     margin-bottom: 10px;
 }
 a{
-    color: #C8ACD6;
+    color: #104583;
 }
 a:hover{
     color: #6CC4E6;
