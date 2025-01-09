@@ -17,6 +17,7 @@ body{
     grid-template-columns: repeat(4, minmax(250px, 250px));
     grid-template-rows: 1fr 1fr;
     max-width: 1030px;
+    max-height: 400px;
 }
 .box{
     width: 250px;
