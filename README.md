@@ -37,7 +37,7 @@ There are two main sections that you can customize:
 
 
 ## Upcoming Features
-
+- [ ] **Dark/Light Theme Support**: A toggle feature to switch between dark and light themes for a personalized visual experience.
 - [ ] **Link Management**: An interface where users can dynamically add, edit, and organize their links.
 - [ ] **Date and Time Display**: A section that shows the current time and date at the top of the page.
 - [ ] **Search Bar**: A feature that allows users to quickly search for specific links within the page.
