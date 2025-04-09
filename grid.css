@@ -27,10 +27,14 @@ body{
     padding-top: 10px;
     margin-left: auto;
     margin-right: auto;
-    overflow: auto;
-    scrollbar-width: none;
     border-radius: 15px;
     backdrop-filter: blur(10px);
+    display: flex;
+    flex-direction: column;
+}
+.links{
+    overflow: auto;
+    scrollbar-width: none;
 }
 ul{
     list-style: none;
